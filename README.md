@@ -1,5 +1,4 @@
 Plot
 ====
 
-Programme pour afficher des fonctions simples
-Little program to see how to plot easy functions and draw curves - using Brehensam algo to place points.
+Basic program (set as a self exercise) to learn how to plot functions and draw curves in C - This uses Brehensam algorithm to place points.
